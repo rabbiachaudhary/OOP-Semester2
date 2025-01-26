@@ -1,0 +1,7 @@
+C:\Users\This PC\source\repos\oop lab 1\FileWRITE\bin\Debug\FileWRITE.exe.config
+C:\Users\This PC\source\repos\oop lab 1\FileWRITE\bin\Debug\FileWRITE.exe
+C:\Users\This PC\source\repos\oop lab 1\FileWRITE\bin\Debug\FileWRITE.pdb
+C:\Users\This PC\source\repos\oop lab 1\FileWRITE\obj\Debug\FileWRITE.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\oop lab 1\FileWRITE\obj\Debug\FileWRITE.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\oop lab 1\FileWRITE\obj\Debug\FileWRITE.exe
+C:\Users\This PC\source\repos\oop lab 1\FileWRITE\obj\Debug\FileWRITE.pdb

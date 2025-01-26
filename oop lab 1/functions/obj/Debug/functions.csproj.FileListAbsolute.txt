@@ -1,0 +1,7 @@
+C:\Users\This PC\source\repos\oop lab 1\functions\bin\Debug\functions.exe.config
+C:\Users\This PC\source\repos\oop lab 1\functions\bin\Debug\functions.exe
+C:\Users\This PC\source\repos\oop lab 1\functions\bin\Debug\functions.pdb
+C:\Users\This PC\source\repos\oop lab 1\functions\obj\Debug\functions.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\oop lab 1\functions\obj\Debug\functions.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\oop lab 1\functions\obj\Debug\functions.exe
+C:\Users\This PC\source\repos\oop lab 1\functions\obj\Debug\functions.pdb

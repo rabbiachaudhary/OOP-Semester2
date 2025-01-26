@@ -1,0 +1,7 @@
+C:\Users\This PC\source\repos\oop lab 1\conditions\bin\Debug\conditions.exe.config
+C:\Users\This PC\source\repos\oop lab 1\conditions\bin\Debug\conditions.exe
+C:\Users\This PC\source\repos\oop lab 1\conditions\bin\Debug\conditions.pdb
+C:\Users\This PC\source\repos\oop lab 1\conditions\obj\Debug\conditions.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\oop lab 1\conditions\obj\Debug\conditions.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\oop lab 1\conditions\obj\Debug\conditions.exe
+C:\Users\This PC\source\repos\oop lab 1\conditions\obj\Debug\conditions.pdb

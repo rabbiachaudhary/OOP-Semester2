@@ -1,0 +1,7 @@
+C:\Users\This PC\source\repos\oop lab 1\llop\bin\Debug\llop.exe.config
+C:\Users\This PC\source\repos\oop lab 1\llop\bin\Debug\llop.exe
+C:\Users\This PC\source\repos\oop lab 1\llop\bin\Debug\llop.pdb
+C:\Users\This PC\source\repos\oop lab 1\llop\obj\Debug\llop.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\oop lab 1\llop\obj\Debug\llop.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\oop lab 1\llop\obj\Debug\llop.exe
+C:\Users\This PC\source\repos\oop lab 1\llop\obj\Debug\llop.pdb

@@ -1,0 +1,7 @@
+C:\Users\This PC\source\repos\oop lab 1\filehandlingRead\bin\Debug\filehandlingRead.exe.config
+C:\Users\This PC\source\repos\oop lab 1\filehandlingRead\bin\Debug\filehandlingRead.exe
+C:\Users\This PC\source\repos\oop lab 1\filehandlingRead\bin\Debug\filehandlingRead.pdb
+C:\Users\This PC\source\repos\oop lab 1\filehandlingRead\obj\Debug\filehandlingRead.csproj.AssemblyReference.cache
+C:\Users\This PC\source\repos\oop lab 1\filehandlingRead\obj\Debug\filehandlingRead.csproj.CoreCompileInputs.cache
+C:\Users\This PC\source\repos\oop lab 1\filehandlingRead\obj\Debug\filehandlingRead.exe
+C:\Users\This PC\source\repos\oop lab 1\filehandlingRead\obj\Debug\filehandlingRead.pdb

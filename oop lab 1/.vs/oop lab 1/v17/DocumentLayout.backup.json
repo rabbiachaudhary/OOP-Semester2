@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D45DDA2A-2274-40ED-AB8D-50D87265A06E}|Lily\\Lily.csproj|c:\\users\\this pc\\source\\repos\\oop lab 1\\lily\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D45DDA2A-2274-40ED-AB8D-50D87265A06E}|Lily\\Lily.csproj|solutionrelative:lily\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FEA0019-3EAA-4028-81F6-95CE5DE9A28A}|arrays\\arrays.csproj|C:\\Users\\This PC\\source\\repos\\oop lab 1\\arrays\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FEA0019-3EAA-4028-81F6-95CE5DE9A28A}|arrays\\arrays.csproj|solutionrelative:arrays\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB8AFC54-BB90-40DB-A4F5-C77431A9694A}|llop\\llop.csproj|C:\\Users\\This PC\\source\\repos\\oop lab 1\\llop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB8AFC54-BB90-40DB-A4F5-C77431A9694A}|llop\\llop.csproj|solutionrelative:llop\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39AE0F30-B2AA-41DE-94B6-AB84EE64E6FC}|conditions\\conditions.csproj|C:\\Users\\This PC\\source\\repos\\oop lab 1\\conditions\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39AE0F30-B2AA-41DE-94B6-AB84EE64E6FC}|conditions\\conditions.csproj|solutionrelative:conditions\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9BFC5DE-E463-4865-92AA-9A9B77B606EE}|KamyabLife\\KamyabLife.csproj|C:\\Users\\This PC\\source\\repos\\oop lab 1\\KamyabLife\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9BFC5DE-E463-4865-92AA-9A9B77B606EE}|KamyabLife\\KamyabLife.csproj|solutionrelative:KamyabLife\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CCE82D4-554E-43F4-8BD0-DD40A1540942}|FileWRITE\\FileWRITE.csproj|C:\\Users\\This PC\\source\\repos\\oop lab 1\\FileWRITE\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CCE82D4-554E-43F4-8BD0-DD40A1540942}|FileWRITE\\FileWRITE.csproj|solutionrelative:FileWRITE\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DDD23A0-7A23-488F-A77B-6D5E64B97C52}|filehandlingRead\\filehandlingRead.csproj|C:\\Users\\This PC\\source\\repos\\oop lab 1\\filehandlingRead\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DDD23A0-7A23-488F-A77B-6D5E64B97C52}|filehandlingRead\\filehandlingRead.csproj|solutionrelative:filehandlingRead\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD14B84-0B9A-4A20-9A2B-5B8BD8F59C85}|functions\\functions.csproj|C:\\Users\\This PC\\source\\repos\\oop lab 1\\functions\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD14B84-0B9A-4A20-9A2B-5B8BD8F59C85}|functions\\functions.csproj|solutionrelative:functions\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F78A7033-BB5B-4F5D-96BA-221B9B4FDB9A}|oop lab 1\\oop lab 1.csproj|C:\\Users\\This PC\\source\\repos\\oop lab 1\\oop lab 1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F78A7033-BB5B-4F5D-96BA-221B9B4FDB9A}|oop lab 1\\oop lab 1.csproj|solutionrelative:oop lab 1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\Lily\\Program.cs",
+              "RelativeDocumentMoniker": "Lily\\Program.cs",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\Lily\\Program.cs",
+              "RelativeToolTip": "Lily\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:31:17.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\arrays\\Program.cs",
+              "RelativeDocumentMoniker": "arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\arrays\\Program.cs",
+              "RelativeToolTip": "arrays\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:20:46.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\llop\\Program.cs",
+              "RelativeDocumentMoniker": "llop\\Program.cs",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\llop\\Program.cs",
+              "RelativeToolTip": "llop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:07:58.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\conditions\\Program.cs",
+              "RelativeDocumentMoniker": "conditions\\Program.cs",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\conditions\\Program.cs",
+              "RelativeToolTip": "conditions\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:04:37.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\KamyabLife\\Program.cs",
+              "RelativeDocumentMoniker": "KamyabLife\\Program.cs",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\KamyabLife\\Program.cs",
+              "RelativeToolTip": "KamyabLife\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:32:55.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\FileWRITE\\Program.cs",
+              "RelativeDocumentMoniker": "FileWRITE\\Program.cs",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\FileWRITE\\Program.cs",
+              "RelativeToolTip": "FileWRITE\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:26:45.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\filehandlingRead\\Program.cs",
+              "RelativeDocumentMoniker": "filehandlingRead\\Program.cs",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\filehandlingRead\\Program.cs",
+              "RelativeToolTip": "filehandlingRead\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwBcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:18:20.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\functions\\Program.cs",
+              "RelativeDocumentMoniker": "functions\\Program.cs",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\functions\\Program.cs",
+              "RelativeToolTip": "functions\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T09:10:12.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\oop lab 1\\Program.cs",
+              "RelativeDocumentMoniker": "oop lab 1\\Program.cs",
+              "ToolTip": "C:\\Users\\This PC\\source\\repos\\oop lab 1\\oop lab 1\\Program.cs",
+              "RelativeToolTip": "oop lab 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T08:29:27.664Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
