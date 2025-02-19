@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2nd semester\\oop lab\\OOP_SEMESTER2\\lab 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C71E6C98-18A2-4BB0-85FE-8856B35984C6}|..\\task2\\task2.csproj|d:\\2nd semester\\oop lab\\oop_semester2\\task2\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C71E6C98-18A2-4BB0-85FE-8856B35984C6}|..\\task2\\task2.csproj|d:\\2nd semester\\oop lab\\oop_semester2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\2nd semester\\oop lab\\OOP_SEMESTER2\\task2\\Products.cs",
+              "RelativeDocumentMoniker": "..\\task2\\Products.cs",
+              "ToolTip": "D:\\2nd semester\\oop lab\\OOP_SEMESTER2\\task2\\Products.cs",
+              "RelativeToolTip": "..\\task2\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T18:11:56.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2nd semester\\oop lab\\OOP_SEMESTER2\\task2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\task2\\Program.cs",
+              "ToolTip": "D:\\2nd semester\\oop lab\\OOP_SEMESTER2\\task2\\Program.cs",
+              "RelativeToolTip": "..\\task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T17:55:24.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
